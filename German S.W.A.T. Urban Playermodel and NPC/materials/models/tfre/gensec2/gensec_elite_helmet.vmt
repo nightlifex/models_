@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture"         "models/tfre/gensec2/gensec_elite_helmet"
+	"$bumpmap"             "models/tfre/gensec2/gensec_elite_helmet_n"
+
+	"$phong"		"1"
+	"$phongboost"		"1"
+	"$phongexponent"	"25"
+
+	"$lightwarptexture"	"models/tfre/gensec2/lightwarp_soft_white"
+	"$phongalbedotint"      "1" 
+	"$phongfresnelranges"   "[0.1 0.1 0.1]"
+        "$normalmapalphaenvmapmask"    "1"
+
+	"$detail"	        "models/tfre/gensec2/detail_metal7"
+	"$detailscale"          "24"
+	"$detailblendfactor"    "0.5"
+	"$detailblendmode"      "0"
+}
