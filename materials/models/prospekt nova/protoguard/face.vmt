@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\prospekt nova\protoguard\face"
+  	"$bumpmap" "models\prospekt nova\protoguard\face_norm"
+}

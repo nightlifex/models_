@@ -1,0 +1,18 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\prospekt nova\protoguard\face_shield"
+	
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "models\prospekt nova\protoguard\glass"
+
+
+// Transparency
+	"$translucent" 1
+	"$nocull" 1
+
+	
+	
+}
+
